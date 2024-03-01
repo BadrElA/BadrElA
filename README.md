@@ -1,6 +1,5 @@
-### Hello 😄
-UC student (Go Bearcats!). I work on radar software in the automotive industry. 
-My favorite color is Blue!
+### Hello
+UC student. Automotive Industry
 
 <!--
 **BadrElA/BadrElA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
